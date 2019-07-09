@@ -15,6 +15,7 @@ This reposistory will contain basic common programs written in c++ such as searc
     [merge_sort.cpp](https://github.com/Marcus-Jon/common_algorithms_cpp/blob/master/merge_sort.cpp)
   * Selection Sort  
     [selection_sort.cpp](https://github.com/Marcus-Jon/common_algorithms_cpp/blob/master/selection_sort.cpp)
-  
+  * Quick Sort  
+    [quick_sort.cpp](https://github.com/Marcus-Jon/common_algorithms_cpp/blob/master/quick_sort.cpp)
   
 ## Plans
