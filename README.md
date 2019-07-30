@@ -20,3 +20,9 @@ This reposistory will contain basic common programs written in c++ such as searc
 * ### Data Structures  
   * Binary Tree  
     [binary_tree.cpp](https://github.com/Marcus-Jon/common_algorithms_cpp/blob/master/data_structures/binary_tree.cpp)
+  * Linked List  
+    [linked_list.cpp](https://github.com/Marcus-Jon/common_algorithms_cpp/blob/master/data_structures/linked_list.cpp)
+  * Stack  
+    [stack.cpp](https://github.com/Marcus-Jon/common_algorithms_cpp/blob/master/data_structures/stack.cpp)
+  * Queue  
+    [queue.cpp](https://github.com/Marcus-Jon/common_algorithms_cpp/blob/master/data_structures/queue.cpp)
